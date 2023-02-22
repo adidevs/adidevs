@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **the MERN Staack**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/adidevs](https://www.github.com/adidevs)
+- 👨‍💻 All of my projects are available in my [repositories](https://github.com/adidevs?tab=repositories)
 
 - 📫 How to reach me **adityasharma3151@gmail.com**
 
