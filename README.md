@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Full Stack Web developer from India.</h3>
 
-- 🌱 I’m currently learning **the MERN Staack**
+- 🌱 I’m currently learning **the MERN Stack**
 
 - 👨‍💻 All of my projects are available in my [repositories](https://github.com/adidevs?tab=repositories)
 
