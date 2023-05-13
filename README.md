@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adidevs&label=Profile%20views&color=0e75b6&style=flat" alt="adidevs" /> </p>
 
-- 🌱 I’m currently learning **the MERN Staack**
+- 🌱 I’m currently learning **the MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://adidevs.netlify.app](https://adidevs.netlify.app)
 
